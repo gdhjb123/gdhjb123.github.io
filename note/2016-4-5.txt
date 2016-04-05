@@ -1,0 +1,66 @@
+2016-4-5
+web前端笔记
+
+前端发展史
+web1.0 内容展示
+AJAX
+web2.0 接近应用程序
+html5
+web3.0 D3(图标库) RT(虚拟现实) 网易云音乐
+
+协作流程	
+策划->交互->视觉->前端->后端->测试
+优化
+策划->视觉->测试
+	  前端
+	  后端
+
+前端工程师工作职责 
+视觉稿+交互稿->ui
+交互稿(线框图)->页面逻辑开发
+视觉稿(图标图片配色距离空间)->页面制作
+
+技能要求
+页面制作css html ps
+页面逻辑开发 dom js
+
+Photoshop 切图
+
+什么是切图？what
+设计稿切出素材(jpg有损 png无损)
+编写代码实现静态页面
+
+为什么要切图？why
+给网页提供图片素材
+
+
+测量
+宽度高度 width height
+内边距外边距 padding margin
+边框 border
+定位 top left right bottom
+文字大小 font-size
+行高 line-height
+背景图位置 backgroundpostion
+
+取色
+边框色 border-color
+背景色 background-color
+文字色 color
+
+确定颜色是否为渐变(魔棒)
+
+需要切出什么？
+修饰性
+图标 logo
+特殊效果的按钮 文字
+非纯色背景
+
+内容性
+banner 广告 配图
+
+切出的图片保存为什么类型？
+内容性的->jpg 进行压缩
+修饰性->png24(ie6不支持半透明) png8
+
+修改png8时默认索引模式会丢失信息，所以需要更改颜色模式为RGB颜色
