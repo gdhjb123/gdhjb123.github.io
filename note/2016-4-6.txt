@@ -1,0 +1,18 @@
+快捷键
+查找(ctrl+p)
+: + 行号
+@ + 符号
+# + 关键字(ctrl+;)
+
+ctrl+shift+p 命令面板
+
+ctrl+d ctrl+shift+l 多行选择
+alt+f3 全部变量
+
+插件 package control
+Emmet html css
+DocBlockr 函数注释
+SideBarEnhancements 右键菜单增强工具
+Terminal 打开命令行终端	
+
+snippets 代码片段
