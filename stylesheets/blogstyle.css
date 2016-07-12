@@ -1,3 +1,11 @@
 p{
 	text-indent: 2em;
 }
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 100px;
+	background: rgb(253,246,227);
+}
+

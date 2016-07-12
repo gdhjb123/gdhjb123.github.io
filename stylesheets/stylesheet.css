@@ -422,4 +422,8 @@ Small Device Styles
     font-size: 11px;
   }
 
+  .program, .blog{
+    width: 50%;
+    float: left;
+  }
 }
