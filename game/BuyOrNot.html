@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BuyOrNot</title>
+</head>
+<body>
+    <input type="text" id="t" /><br>
+    <input type="button" onclick="clickRandom()" value="决定" />
+    <script type="text/javascript">
+    var clickRandom = function(){
+        var r = Math.random();        
+        if(r>0.5){
+            document.getElementById("t").value = "买";
+        }else{
+            document.getElementById("t").value = "不买";
+        }
+
+    }
+    </script>
+</body>
+</html>
